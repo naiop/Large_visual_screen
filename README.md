@@ -1,6 +1,12 @@
-# MyFrist_Repositories
+## 什么是echarts？
 
-# 大数据可视化大屏模板
+
+`ECharts`，一个使用 `JavaScript` 实现的开源可视化库，可以流畅的运行在 PC 和移动设备上，兼容当前绝大部分浏览器（IE8/9/10/11，Chrome，Firefox，Safari等），底层依赖矢量图形库 ZRender，提供直观，交互丰富，可高度个性化定制的数据可视化图表。
+
+类似于`echarts`的图表库还有`Highcharts`，`G2`，`d3`等，
+
+
+## 大数据可视化大屏模板
 
 以上模板均来自于网络收集！！！
 
